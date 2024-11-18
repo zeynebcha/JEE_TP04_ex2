@@ -30,7 +30,7 @@ Exercice 1 : Soumission et affichage des données
   # Servlet FormController :
 
 1. **Récupération des données** :
-   - Extrait les champs `nom`, `prenom`, `sexe`, et `codePostal` de la requête HTTP.
+   - Extrait les champs `nom`, `prenom`, `sexe`, `transport`et `codePostal` de la requête HTTP.
 
 2. **Validation** :
    - Vérifie que tous les champs sont remplis.
